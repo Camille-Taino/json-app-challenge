@@ -1,3 +1,6 @@
+### My codes
+My codes are located in the App.js file, data.js and App.css.
+
 ### Running the App
 1. Open the project folder in your favorite code editor.
 2. Open the terminal/ctrl + `.
